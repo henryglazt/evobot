@@ -1,1 +1,1 @@
-worker: npm install ytdl-core@latest
+worker: npm install -g npm@7.1.0
